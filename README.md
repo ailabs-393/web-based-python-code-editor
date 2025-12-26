@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## ⚠️ Security Warning
+
+This application executes user-provided Python code on the server. Use containerization (Docker) or VMs for production deployment.
+
 ## Getting Started
 
 First, run the development server:
